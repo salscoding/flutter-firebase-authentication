@@ -36,4 +36,4 @@ Additional setup instructions for Google and Facebook sign-in:
 - Facebook Login for Android: [https://developers.facebook.com/docs/facebook-login/android](https://developers.facebook.com/docs/facebook-login/android)
 - Facebook Login for iOS: [https://developers.facebook.com/docs/facebook-login/ios](https://developers.facebook.com/docs/facebook-login/ios)
 
-## [License: MIT](LICENSE.md)
+## [License: MIT](https://github.com/salscoding/flutter-firebase-authentication/blob/master/LICENSE)
