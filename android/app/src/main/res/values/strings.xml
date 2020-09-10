@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- TODO: Please Add your own App name, ID & Protocol Scheme -->
+        <string name="app_name">HERE</string>
+        <string name="facebook_app_id">HERE</string>
+        <string name="fb_login_protocol_scheme">HERE</string>
+</resources>
